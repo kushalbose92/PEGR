@@ -1,5 +1,5 @@
 # Overcoming Oversquashing by Efficient Graph Rewiring with Parallel Edges
-
+![PEGR_model](https://github.com/kushalbose92/PEGR/blob/main/pegr_model.pdf)
 
 ## Dependencies
 
