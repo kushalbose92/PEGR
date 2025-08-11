@@ -1,4 +1,4 @@
-# Overcoming Oversquashing by Efficient Graph Rewiring with Parallel Edges
+# Rewiring with Parallel Edges: An Analysis through the Lens of Graph Spectrum
 ![PEGR_model](https://github.com/kushalbose92/PEGR/blob/main/pegr_model.png)
 
 ## Dependencies
