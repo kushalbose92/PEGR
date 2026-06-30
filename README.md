@@ -12,7 +12,7 @@
 * PyG 2.5.0
 * Networkx 3.1
 
-## Molecular Graphs
+## TU Graphs
 
 * REDDIT-BINARY
 * IMDB-BINARY
@@ -20,6 +20,11 @@
 * ENZYMES
 * PROTEINS
 * COLLAB
+
+## LRGB 
+
+* Peptides-func
+* Peptides-struct
   
 ## Usage
 
