@@ -1,4 +1,4 @@
-# Rewiring with Parallel Edges: An Analysis through the Lens of Graph Spectrum
+# Parallel Edges Expand the Graph Spectrum: Spectral Analysis and Implications for Oversquashing
 ![PEGR_model](https://github.com/kushalbose92/PEGR/blob/main/pegr_model.png)
 
 ## Dependencies
